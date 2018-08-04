@@ -79,6 +79,26 @@
             "location": "/about/#2014", 
             "text": "A new model-based spherical deconvolution method for multi-fiber reconstruction    Ye Wu , Youyou Xu, Yuanjing Feng, Chengfeng Gao, Fei Li  ICIEA 2014    ESTIMATION OF FIBER ORIENTATION DISTRIBUTION WITH NON- NEGATIVE CONSTRAINTED HIGHER ORDER TENSOR DECONVOLUTION   \nYouyou Xu, Yuanjing Feng, Yanpeng Niu,  Ye Wu  Journal of Systems Science and Mathematical Sciences 2014", 
             "title": "2014"
+        }, 
+        {
+            "location": "/gallery/", 
+            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2", 
+            "title": "Gallery"
+        }, 
+        {
+            "location": "/source/code/", 
+            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2", 
+            "title": "Code"
+        }, 
+        {
+            "location": "/source/data/", 
+            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2", 
+            "title": "Data"
+        }, 
+        {
+            "location": "/documentation/", 
+            "text": "301 Moved Permanently\n\n\n\n\n301 Moved Permanently\n\n\nnginx/1.6.2", 
+            "title": "Documentation"
         }
     ]
 }

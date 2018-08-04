@@ -2,12 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://wuye.cf/</loc>
-     <lastmod>2018-08-01</lastmod>
+     <lastmod>2018-08-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://wuye.cf/about/</loc>
-     <lastmod>2018-08-01</lastmod>
+     <lastmod>2018-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/gallery/</loc>
+     <lastmod>2018-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/source/code/</loc>
+     <lastmod>2018-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/source/data/</loc>
+     <lastmod>2018-08-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/documentation/</loc>
+     <lastmod>2018-08-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
