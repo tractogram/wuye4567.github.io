@@ -2,32 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://wuye.cf/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://wuye.cf/about/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <loc>http://wuye.cf/research/dmri/proce/</loc>
+     <lastmod>2018-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://wuye.cf/gallery/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <loc>http://wuye.cf/research/dmri/model/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/research/dmri/track/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/research/dmri/atlas/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/research/smri/proce/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/research/smri/atlas/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/research/fmri/proce/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/research/fmri/atlas/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/project/</loc>
+     <lastmod>2018-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://wuye.cf/source/code/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://wuye.cf/source/data/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <lastmod>2018-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://wuye.cf/documentation/</loc>
-     <lastmod>2018-08-03</lastmod>
+     <loc>http://wuye.cf/source/soft/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/source/ref/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/thesis/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/news/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/gallery/</loc>
+     <lastmod>2018-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://wuye.cf/about/</loc>
+     <lastmod>2018-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
